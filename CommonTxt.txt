@@ -357,6 +357,9 @@ https://devblogs.microsoft.com/dotnet/net-core-is-the-future-of-net/
 --vue with core.
 https://www.youtube.com/watch?v=l4MQHTpNqeM&list=PLOeFnOV9YBa6en9lpCqbFgrSR4fN67ka3
 
+--git hub with the Mosh Hamdani guy.
+https://www.youtube.com/watch?v=8JJ101D3knE
+
 
 
 --the diff. between blozor and razor.
