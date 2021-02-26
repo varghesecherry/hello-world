@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=Bq9xR5PUs6s
 
 
 
---=================for grey noise========================
+--=================for grey noise background========================
 --London.
 https://www.youtube.com/watch?v=QI4_dGvZ5yE
 
@@ -25,6 +25,9 @@ https://www.youtube.com/watch?v=hUUpxdqNg0M
 
 Switzerland snowy train ride.
 https://www.youtube.com/watch?v=XsVJ8PCV-0M
+
+Munich--the sound effects are very good.
+https://www.youtube.com/watch?v=CAGwCvlogY8
 
 ---================================================================================
 
@@ -362,15 +365,13 @@ https://www.youtube.com/watch?v=l4MQHTpNqeM&list=PLOeFnOV9YBa6en9lpCqbFgrSR4fN67
 --git hub with the Mosh Hamdani guy.
 https://www.youtube.com/watch?v=8JJ101D3knE
 
-
+https://www.youtube.com/watch?v=wpISo9TNjfU&feature=emb_logo
 
 --the diff. between blozor and razor.
 https://www.telerik.com/blogs/difference-between-blazor-vs-razor
 
 --"How to speak" by Patrick Winston
 https://www.youtube.com/watch?v=Unzc731iCUY
-
-
 
 
 ==---90s hindi popular romance songs.
@@ -380,12 +381,23 @@ https://www.youtube.com/watch?v=sWqjZpBtcxc&list=RDCLAK5uy_lnm4v4arFrmL63NUzIdoX
 https://www.youtube.com/watch?v=U4EzB360vz8
 
 
-
---
-=======
---just to test from the home machine.
-dell  10 thing.
-
+--visual studio 2017 and 2019 comparision
+https://docs.microsoft.com/en-us/visualstudio/ide/whats-new-visual-studio-2019?view=vs-2019
 
 
 --just a change from  vdi.
+
+
+
+
+--block chain good talk. key take away is block chain is a technology and bit coin is just an implementation.
+https://www.youtube.com/watch?v=8fbhI1qVj0c
+
+
+
+--general/funny computing 
+https://www.youtube.com/watch?v=6avJHaC3C2U
+
+
+--calculus the sprit.
+https://www.youtube.com/watch?v=WUvTyaaNkzM
